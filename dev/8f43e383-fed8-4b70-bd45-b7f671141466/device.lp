@@ -1,10 +1,10 @@
-(librepcb_device adefcceb-514f-460c-aa13-08edb7a012cb
+(librepcb_device 8f43e383-fed8-4b70-bd45-b7f671141466
  (name "S2B-XH-A")
  (description "JST XH series through-hole right-angle (side-entry type) male shrouded header with 2 positions.\n\nPitch: 2.5 mm\nPositions: 2\nCurrent rating: 3 A\nVoltage rating: 250 V")
  (keywords "jst,xh")
  (author "Danilo Bargen")
  (version "0.1")
- (created 2020-08-23T08:05:30Z)
+ (created 2020-10-22T21:03:38Z)
  (deprecated false)
  (category 4a4e3c72-94fb-45f9-a6d8-122d2af16fb1)
  (component ab344e7c-b740-4f2a-b21a-f7b1c433f990)
