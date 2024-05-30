@@ -1,9 +1,9 @@
 (librepcb_device de9de718-908e-4bab-ad0e-f43f02cf4e3f
- (name "SM20B-SRSS-TB")
+ (name "JST SM20B-SRSS-TB")
  (description "Header SR 1.0 SMT side entry, 1mm pitch")
  (keywords "connector,jst")
  (author "nbes4")
- (version "0.1")
+ (version "0.2")
  (created 2024-05-03T17:19:09Z)
  (deprecated false)
  (generated_by "")

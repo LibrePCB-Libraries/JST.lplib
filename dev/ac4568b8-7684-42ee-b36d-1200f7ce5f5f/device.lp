@@ -1,9 +1,9 @@
 (librepcb_device ac4568b8-7684-42ee-b36d-1200f7ce5f5f
- (name "SM08B-SRSS-TB")
+ (name "JST SM08B-SRSS-TB")
  (description "Header SR 1.0 SMT side entry, 1mm pitch")
  (keywords "connector,jst")
  (author "nbes4")
- (version "0.1")
+ (version "0.2")
  (created 2024-05-03T17:19:09Z)
  (deprecated false)
  (generated_by "")

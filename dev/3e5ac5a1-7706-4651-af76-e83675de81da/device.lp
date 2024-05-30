@@ -1,9 +1,9 @@
 (librepcb_device 3e5ac5a1-7706-4651-af76-e83675de81da
- (name "SM03B-SRSS-TB")
+ (name "JST SM03B-SRSS-TB")
  (description "Header SR 1.0 SMT side entry, 1mm pitch")
  (keywords "connector,jst")
  (author "nbes4")
- (version "0.1")
+ (version "0.2")
  (created 2024-05-03T17:19:09Z)
  (deprecated false)
  (generated_by "")
