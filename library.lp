@@ -3,7 +3,7 @@
  (description "Connectors by JST Sales America Inc (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.1.1")
+ (version "0.1.2")
  (created 2020-08-17T22:58:03Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/JST.lplib")
